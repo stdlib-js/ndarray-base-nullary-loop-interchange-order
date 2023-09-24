@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nullaryLoopOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-nullary-loop-interchange-order@deno/mod.js';
+import nullaryLoopOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-nullary-loop-interchange-order@v0.1.0-deno/mod.js';
 ```
 
 #### nullaryLoopOrder( shape, stridesX )
@@ -106,7 +106,7 @@ For all returned arrays, the first element corresponds to the innermost loop, an
 
 ```javascript
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@deno/mod.js';
-import loopOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-nullary-loop-interchange-order@deno/mod.js';
+import loopOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-nullary-loop-interchange-order@v0.1.0-deno/mod.js';
 
 // Create an ndarray:
 var x = array( [ [ 1, 2 ], [ 3, 4 ] ] );
