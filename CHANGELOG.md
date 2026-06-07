@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-19)
+## Unreleased (2026-06-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`104ec96`](https://github.com/stdlib-js/stdlib/commit/104ec966cbe5e4530a183aed20422da4b129ac6e) - **refactor:** align parameter names in `ndarray/base/nullary-loop-interchange-order` [(#12668)](https://github.com/stdlib-js/stdlib/pull/12668) _(by Philipp Burckhardt)_
 -   [`13ec30d`](https://github.com/stdlib-js/stdlib/commit/13ec30d69ff91423504ba76bf5de59b0322ff8db) - **bench:** refactor to use string interpolation in `@stdlib/ndarray-base` [(#11435)](https://github.com/stdlib-js/stdlib/pull/11435) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
